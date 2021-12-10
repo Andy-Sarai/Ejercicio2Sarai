@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ejercicio2Sarai</string>
+    <string name="Title1">Ingresa Número.</string>
+    <string name="Numero">Número</string>
+    <string name="Guardar">Guardar Valores.</string>
+    <string name="mayor">Datos Ordenados de Mayor a Menor</string>
+    <string name="requiere_inf">Introducir números</string>
+    <string name="error">Introduce número de 5 dígitos</string>
+    <string name="menor">Datos Ordenados de Menor a Mayor</string>
+    <string name="Mayor">Ordenar de Mayor a Menor</string>
+    <string name="Menor">Odenar de Menor a Mayor</string>
+    <string name="posicion">Posición</string>
+    <string name="Repetidos">Se eliminaron valores repetidos</string>
+</resources>
